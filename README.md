@@ -30,5 +30,5 @@ I am Albrim Paqarizi, currently working as a Software Engineer at the [Solution2
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=albrimpaqarizi&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark)
+![Github Stats](https://github-readme-stats-one-bice.vercel.app/api?username=albrimpaqarizi&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albrimpaqarizi&hide=TeX&layout=compact&theme=github_dark)
