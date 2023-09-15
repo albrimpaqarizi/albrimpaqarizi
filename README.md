@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Albrim Paqarizi, I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-albrimpaqarizi-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/albrimpaqarizi/)](https://www.linkedin.com/in/albrimpaqarizi/)
 [![Upwork Badge](https://img.shields.io/badge/albrimpaqarizi-6FDA44?style=flat-square&logo=Upwork&logoColor=white&link=https://www.upwork.com/freelancers/~0105c450adf00fea61/)](https://www.upwork.com/freelancers/~0105c450adf00fea61/)
